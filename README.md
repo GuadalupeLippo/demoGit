@@ -1,2 +1,2 @@
 # demo_git
-este es un demp para ejercicios de git
+este es un demo para ejercicios de git
